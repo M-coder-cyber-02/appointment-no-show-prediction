@@ -65,8 +65,9 @@ Explore cost-sensitive learning to handle class imbalance
 ---
 
 ## Contact
-**Author**: Mahwish Malik
-**LinkedIn**: https://www.linkedin.com/in/dr-mahwish-m-a570892a8/
+
+**Author**: Mahwish Malik  
+**LinkedIn**: https://www.linkedin.com/in/dr-mahwish-m-a570892a8/  
 **Email**: mahwishmalik1997@gmail.com
 
 ---
